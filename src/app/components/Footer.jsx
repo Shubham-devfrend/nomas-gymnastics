@@ -10,7 +10,7 @@ const Footer = () => {
         {/* Brand & Social */}
         <div>
           {/* <p className='text-[#FBAB55] text-2xl font-bold'>Breathe Pilates Studio</p> */}
-          <Image src='/logo.jpg' alt='logo' width={70} height={100} className='rounded-full'/>
+          <Image src='/logo.png' alt='logo' width={70} height={100} className='rounded-full'/>
           <p className="text-neutral-700 mb-4 py-2">Elevate Movement. Embody Artistry.</p>
           <div className="flex gap-4">
             <a href="#" className="bg-[#D14334] p-3 rounded-full text-white hover:bg-yellow-600 transition">
